@@ -14,7 +14,7 @@
 ------
 ### Connect with me ☎️
 <p align="center">
-  <a href="https://wa.me/380944486343" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"  onclick="tab.open"></a>
+  <a href="https://wa.me/380944486343" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="wa"></a>
      <br><a name=harunkunwenker&label=VIEWS&style=flat-square&color=green" />
   <a href="https://github.com/harunkunwenker"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
        <a name=harunkunwenker&label=VIEWS&style=flat-square&color=green" /></br>
