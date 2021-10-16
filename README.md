@@ -32,7 +32,7 @@
 ### Repo Stats 🔭
 
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=harunkunwenker&repo=freerestapi2&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=harunkunwenker&repo=disable-right-click-script-vIII&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=harunkunwenker&repo=secure-copy-content-protection&theme=nightowl)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=harunkunwenker&repo=bootstrap.min.css&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=harunkunwenker&repo=harunkunwenker&theme=nightowl)
 
