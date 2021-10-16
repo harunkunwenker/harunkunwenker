@@ -26,15 +26,15 @@
 
 ### Github Stats 🚀
 
-<p align="center"><a href="https://github.com/harunkunwenker"><img src="https://github-readme-stats.vercel.app/api?username=harunkunwenker&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/harunkunwenker"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harunkunwenker&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/harunkunwenker/harunkunwenker"><img src="https://github-readme-stats.vercel.app/api?username=harunkunwenker&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/harunkunwenker/harunkunwenker"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harunkunwenker&show_icons=true&theme=radical&langs_count=8"></a></p> 
 
 ### Repo Stats 🔭
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=harunkunwenker&repo=harunkunwenker&theme=tokyonight)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=harunkunwenker&repo=secure-copy-content-protection&theme=dracula)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=harunkunwenker&repo=bootstrap.min.css&theme=onedark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=harunkunwenker&repo=transparent-login-form&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=harunkunwenker&repo=harunkunwenker&show_icons=true&theme=tokyonight)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=harunkunwenker&repo=secure-copy-content-protection&show_icons=true&theme=dracula)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=harunkunwenker&repo=bootstrap.min.css&show_icons=true&theme=onedark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=harunkunwenker&repo=transparent-login-form&show_icons=true&theme=nightowl)
 
 
 <p align="center">
